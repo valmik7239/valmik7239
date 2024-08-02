@@ -1,4 +1,8 @@
 <h1 align="center">Hi 👋, I'm Valmik Satav</h1>
+<h3 align="center">Proficient at data analysis with strong skills in SQL, Power BI, Excel, and Python. Specializes in data visualization and analysis to drive business insights. Demonstrates excellent analytical thinking and problem-solving abilities. Committed to delivering accurate and actionable data insights for strategic decision-making.</h3>
+
+- 🌱 I’m currently learning **Data Analysis**
+
 - 📫 How to reach me **valmiksatav7@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
